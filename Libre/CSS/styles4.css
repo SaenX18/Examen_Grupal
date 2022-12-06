@@ -1,0 +1,28 @@
+section.videos {
+    background-color: #000000;
+    border: 2px solid white;
+    margin: 20px;
+    margin-top: -13px;
+    width: 100%;
+    min-height: 100%;
+}
+
+div.grupo1 {
+    background-color: ;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+h1.h2r {
+color: rgb(7, 255, 19);
+font-size: 40px;
+text-align: center;
+margin: 20px;
+}
+
+div.video1 {
+    margin: 100px;
+    border: 1px solid white;
+    width: 560px;
+}
